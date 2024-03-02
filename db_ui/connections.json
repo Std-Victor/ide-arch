@@ -1,0 +1,1 @@
+[{"url": "sqlite:/home/chizar/learn_typescript/auth-server/db.sqlite", "name": "db.sqlite"}, {"url": "mongodb://localhost:27017", "name": "mongodb-home"}]
